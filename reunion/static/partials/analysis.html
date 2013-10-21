@@ -1,0 +1,108 @@
+<div class="panel">
+    <div class="conditionspanel">
+        <div class="title"><span class="titlelabel">Analysis:{{source.brand}} </span></div>
+
+        <form novalidate name="searchFeedForm">
+
+            <div class="content">
+                <div class="cell size1">Source Type:</div>
+                <div class="cell size5">
+                    <!--  <li ng-repeat="st in sourceType">                                                     -->
+                    <!--      <label><input type="checkbox" name="{{st}}"/>{{st}}</label>                       -->
+                    <!--  </li>                                                                                 -->
+
+
+                                     <span class="item" ng-repeat="st in sourcetype">
+                   <label><input class="checkbox" uniform type="checkbox" name="sourceType" ng-checked="st.checked"
+                                 ng-model="st.checked" value="{{st.type}}"/>{{st.type}} </label>
+                </span>
+                </div>
+            </div>
+
+
+            <div class="content">
+                <div class="cell size1">Date Range:</div>
+                <div class="cell size5">
+                                 <span>
+                <select ng-model="dataRange">
+                    <option value="7" selected=selected>Last 7 Days</option>
+                    <option value="30">Last month</option>
+                </select>
+
+            </span>
+                    <span>  from <input bs-datepicker type="text" ng-model="feeds.startTime" name="startTime"
+                                        required=""> to <input bs-datepicker type="text"
+                                                               ng-model="feeds.endTime"> </span>
+                </div>
+            </div>
+            <div class="content">
+                <div class="cell size1"></div>
+                <div class="cell size5">
+                    <div ng-show="searchFeedForm.$invalid" class="alert alert-warning"> {{ warning }}</div>
+
+                    <button class="btn btn-primary" ng-disabled='searchFeedForm.$invalid||!!!analysisDetailUrl' ng-click='searchFeed()'>
+                        Search
+                    </button>
+                    <button class="btn btn-primary " data-toggle="modal" ng-click="" data-target="#saveTopicModal"
+                            ng-disabled='searchFeedForm.$invalid'> Search Current Set
+                    </button>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<div ng-include="analysisDetailUrl" ng-controller="AnalysisIncludeCtrl">
+
+
+</div>
+<div class="modal fade" id="saveTopicModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Save Tpoic</h4>
+            </div>
+            <div class="modal-body">
+                Topic Name: <input type="text" ng-model="topicName">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save Topic</button>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+
+<div style="display: none;" class="modal fade" id="selectReportChart" tabindex="-1" role="dialog"
+     aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Save Tpoic</h4>
+            </div>
+            <div class="modal-body">
+                <div style="float: left" ng-repeat="chart in charts">
+
+                    <img ng-src="files/{{chart.Thumbnail}}">
+
+                    <p>{{chart.Name}}</p>
+                    <input type="button" class="btn btn-primary" value="add">
+
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+</div>
+</div>

@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="162e5391-4d56-41eb-9092-5351425d8f8d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/1080019485656628863.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/1285496218655438617.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/1301821767304609937.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/2543689364552105334.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5774740622197860996.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5774740622197861000.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5774740622197861001 (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5774740622197861001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5774740622197861002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5774740622197861005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5774740622197861006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5774740622197861008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5777555371964962059.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5777555371964962065.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5778399796895146040.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5785718146289108583.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/5787969946102795829.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6597184115866698959.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6597197310006548386.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6597267678749680040.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6597464491330757142.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6597494178144454276.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6597521665936262790.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6597594233702970418.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6597678896098721437.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6597767956540560284.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6597872410144365592.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6597957072540867215.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/6598208860703358739.jpg_1680x10000x0x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Bar Chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Bivariate Area Chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/Bree_Serif/BreeSerif-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/Bree_Serif/BreeSerif-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Contour Plot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Donut Multiples.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Grouped Bar Chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Language Network.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Line Chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Normalized Stacked Bar Chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/pacifico/Pacifico-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/pacifico/Pacifico-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/pacifico/Pacifico-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/pacifico/Pacifico-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/pacifico/Pacifico-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/pacifico/Pacifico-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ReUnionWeb-python.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Scatterplot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Stacked Area Chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Stacked Bar Chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/Word Cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/bg/admin_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/bg/admin_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/arrow_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/askci.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/uniform/themes/default/images/bg-input-focus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/default/images/bg-input-focus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/uniform/themes/default/images/bg-input.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/default/images/bg-input.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/broccolidry.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/broccolidry.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/broccolidry.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/broccolidry.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/broccolidry.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/broccolidry.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/chart1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/chart2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/chart3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/chart4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/chart5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/chart6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/img/cube_d8237111.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/defrag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/dots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/img/dots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/img/dots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/bg/dw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/efu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/forums_customer_classification.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/forums_user_classification_for_forums.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/hc360.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/hexun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/icon4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/icon5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/icon6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/kankanews.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/kimiss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/bg/left-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/img/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/img/movies_drive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/netease.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/pactera-logo-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/pactera-logo-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/bg/pactera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/pie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/power.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/reunion-logo-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/bg/reunion-logo-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/reunion-logo-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/reunion-r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/setting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/sina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/sohu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/uniform/themes/default/images/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/default/images/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/img/spriteme1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/tanc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/tencent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/thumbnail (1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/files/thumbnail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/toggle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/toggle_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/bg/top-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/img/top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/user_classification_forums.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/user_classification_weibo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/waiting.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/weibo_customer_classification_with_sentiment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/screenshots/weibo_user_type_classification_with_sentiment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/images/icon/yoka.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pydevproject" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/d3/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/Bree_Serif/OFL.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/Bree_Serif/OFL.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/pacifico/Pacifico-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/pacifico/Pacifico-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/resources/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/leftmenu/alertMenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/alerts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/alerts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/analysis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/analysis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/include/analysisInclude.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/leftmenu/analysisMenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-bootstrap-prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-bootstrap-prettify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-cookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-cookies.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-loader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-mocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-resource.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-sanitize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-sanitize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular-scenario.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/angular-strap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/bootstrap-datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.nl-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.rs-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular-strap/locales/bootstrap-datepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/broccolidry.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/broccolidry.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/broccolidry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/broccolidry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/directives/compare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/charts/customer-analysis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/d3/d3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/d3/d3.layout.cloud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/leftmenu/dashboardMenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/charts/default-analysis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/detectbrowser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/require/domReady.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/utils/excel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/feeddetail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/feeds-detial.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/feeds.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/feeds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/MockData/feeds.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/leftmenu/feedsMenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/filter/filters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/help.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/require/i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/ichart.1.2.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/images.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/leftmenu/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/jquery/jquery-1.8.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/jquery/jquery-1.8.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/jquery-ui-1.10.3.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/jquery.mCustomScrollbar.concat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/jquery.sly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/uniform/jquery.uniform.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/jstd-scenario-adapter-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/jstd-scenario-adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/utils/lazy-directives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/leftmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/linq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/logout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/logout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/main-built.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/mcore.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/monitor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/monitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/leftmenu/monitorMenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/noie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/charts/overview-analysis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/MockData/phones.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/prefixfree.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/reports.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/reports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/leftmenu/reportsMenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/charts/representativeArticles-analysis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/require/require-1.0.8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/require/require-2.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/require/require.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/resources/nls/res.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/resources/nls/en-us/res.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/resources/nls/ja-jp/res.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/MockData/resultData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/utils/route-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/background/run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/services/services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/signup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/js/controllers/signup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glow/fonts/pacifico/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/glowsimple/fonts/pacifico/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/charts/tagcloud.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/partials/charts/tagcloud1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/require/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/bootstrap/js/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/underscore/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/underscore/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/default/css/uniform.aristo.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/uniform/themes/default/css/uniform.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/themes/default/css/uniform.default.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/static/lib/angular/version.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reunion/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="ReUnionWeb-python.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="162e5391-4d56-41eb-9092-5351425d8f8d" time="1382346345820" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ReUnionWeb-python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="9" selection-start="94" selection-end="94" vertical-scroll-proportion="0.20736699">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1432" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reunion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reunion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reunion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reunion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReUnionWeb-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reunion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="background" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="162e5391-4d56-41eb-9092-5351425d8f8d" name="Default" comment="" />
+      <created>1382346140180</created>
+      <updated>1382346140180</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1432" y="-8" width="1456" height="916" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="reunionweb的python实现" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="reunionweb的python实现" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="9" selection-start="94" selection-end="94" vertical-scroll-proportion="0.20736699">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

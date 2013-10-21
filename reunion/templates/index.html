@@ -1,0 +1,103 @@
+<!DOCTYPE html >
+<html lang="zh-CN" ng-controller="LayoutController">
+<head>
+    <meta charset="utf-8">
+    <style>
+        [ng-cloak] {
+            display: none;
+        }
+    </style>
+    <script data-main="../static/js/main" src="../static/lib/require/require-2.1.0.js"></script>
+<!-- <script data-main="js/main-built" src="lib/require/require.min.js"></script>-->
+    <title ng-bind="title"></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Reunion">
+    <meta name="author" content="Pactera">
+
+    <link rel="shortcut icon" href="images/icon/reunion-r.png">
+    <!--[if lt IE 9]>
+    <script type="text/javascript" charset="UTF-8" src="lib/html5shiv.js"></script>
+    <![endif]-->
+
+      <!-- development -->
+    <link rel="stylesheet" href="../static/lib/bootstrap/css/bootstrap.css"/>
+    <link rel='stylesheet' href='../static/lib/bootstrap/css/bootstrap-responsive.css'/>
+    <link rel='stylesheet' href='../static/lib/angular-strap/bootstrap-datepicker.css'/>
+    <link href='../static/css/default.css' rel='stylesheet' type='text/css'>
+
+    <!--production-->
+  <!--  <link rel="stylesheet" href="css/reunion.css"/>-->
+</head>
+<body class="ng-cloak" ng-cloak>
+  <div id="header">
+    <div class="logo"><a href="javascript:;"></a></div>
+    <div class="leftbarbtn"><a href="javascript:;"></a></div>
+    <div class="nav">
+        <a ng-repeat="nav in navBars" ng-click="selectNav($index)" ng-href="{{nav.url}}" ng-bind="nav.name"
+           ng-class="{selected: $index==selectedRow}" class="button">Dashboard</a>
+
+    </div>
+    <div class="userinfo">
+        <a class="user" href="javascript:;">Hi,{{UserName}}</a>
+        <a class="message"  data-toggle="modal"   data-target="#ReunionMessage" href="javascript:;">1</a>
+        <a class="setting"  title="have new message"  href="javascript:;"></a>
+        <a class="logout" ng-click="logout()" href="javascript:;"></a>
+    </div>
+</div>
+<div id="leftbar">
+    <div class="searchbar"><input id="" name="" class="input" placeholder="Search"><a class="button" href="javascript:;"></a></div>
+    <div ng-include="menuUrl" ng-controller="LeftMenuCtrl"  ></div>
+   </div>
+  <div id="maincontent" ng-class="{mainshow:show,mainhidden:!show }">
+    <div id="showMenu" ng-click="hiddenMenu()" ><div class="resizable-icon" id="widResize"></div></div>
+    <div class="containercrumbs">
+       <div class="info">New Feeds Today:{{info.TodayFeedsTotal}}, Total Feeds:{{info.TotalFeeds}} From {{info.TotalSite}} Sites.</div>
+
+        <div ng-show="!!global.error" class="alert alert-danger alert-dismissable">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+            <strong>Error!</strong> {{ global.error }}
+        </div>
+    </div>
+    <div class="containercontent">
+        <div class="page" ng-view=""></div>
+    </div>
+
+    <div class="footer">
+        <div class="copyright">&copy;2013 Pactera US RDS-PDS RDS Octopus Team</div>
+        <div class="logo"><a href="http://www.pactera.com"></a></div>
+    </div>
+    <div class="footer2"></div>
+ </div>
+  <div style="display: none" class="modal fade" id="ReunionMessage" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+          <div class="modal-content">
+              <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                  <h4 class="modal-title">Latest Feeds( Auto Refresh)</h4>
+              </div>
+              <div class="modal-body">
+                      <div ng-repeat="newfeed in newFeeds">
+                          <h4 class="titlelabel">{{newfeed.Title}}</h4>
+                          <span>来源:<a ng-href="{{newfeed.FromUrl}}" target="_blank">{{newfeed.FromUrl}}</a></span>
+                          <article>{{newfeed.Content}}</article>
+                          <hr>
+                      </div>
+              </div>
+              <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+              </div>
+          </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+ </body>
+<!--<script type="text/javascript" charset="UTF-8" src="lib/prefixfree.min.js"></script>-->
+<!--[if lt IE 9]>
+<script type="text/javascript">
+    document.body.innerHTML = "<div style='color:red; margin:0 auto; font-size:18px;'>" +
+            "您的浏览器实在太老了！请更新最新的浏览器吧！" +
+            "<a href='http://download.microsoft.com/download/5/D/4/5D405568-02E9-414D-BA52-A8D9890C1D31/IE10-Windows6.1-zh-cn.exe' >IE10</a>" +
+            "|<a href='https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0D7D90D0-1294-AFB2-9950-D49F3DDE4495%7D%26lang%3Dzh-TW%26browser%3D4%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26installdataindex%3Ddefaultbrowser/update2/installers/ChromeSetup.exe'>chrome</a>" +
+            "</div>";
+</script>
+<![endif]-->
